@@ -12,5 +12,5 @@ Her zaman en iyisi için sizlerleyiz, Ayrıca tüm Discord botları arasında ko
 <p>• b?nsfw-komutları</p>
 
 # » Linkler;
-<p>Davet: https://boga.pw/davet (kapalı/closed)</p>
-<p>Destek: https://boga.pw/destek (kapalı/closed)</p>
+<p>Davet: https://bogabot.pw/davet</p>
+<p>Destek: https://bogabot.pw/destek</p>
