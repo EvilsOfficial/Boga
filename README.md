@@ -14,3 +14,6 @@ Her zaman en iyisi için sizlerleyiz, Ayrıca tüm Discord botları arasında ko
 # » Linkler;
 <p>Davet: https://bogabot.pw/davet</p>
 <p>Destek: https://bogabot.pw/destek</p>
+
+# » Widgetler;
+<a href="https://botsfordiscord.com/bots/408149954901835776" ><img src="https://botsfordiscord.com/api/bot/408149954901835776/widget" title="Visit Boğa listed on Bots for Discord!" alt="Boğa's Widget Failed to Load" /></a>
